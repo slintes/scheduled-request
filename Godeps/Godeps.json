@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/slintes/scheduled-request",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/jasonlvhit/gocron",
+			"Rev": "42a5804d37aa0b9239b265e894a16b8edbf52d54"
+		}
+	]
+}
